@@ -16,4 +16,5 @@
  ## Hello
 
 >you can add a link by using `[]()`:
-This is an `[example link](http://example.com/)`
+This is an `[example link](http://example.com/)` becomes:\
+[example link](http://example.com/)
