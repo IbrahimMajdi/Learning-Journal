@@ -10,4 +10,4 @@
 > read more about growth mind set at:
 [Fixed vs. Growth](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) /
 
->[Please check my repo for more info abou the project]( )
+>[Please check out my repo for more info abou the project](https://ibrahimmajdi.github.io/Learning-Journal/)
