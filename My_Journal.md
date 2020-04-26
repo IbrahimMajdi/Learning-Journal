@@ -10,7 +10,7 @@
 
 > you can use # mark to imulate thae html headers tags:
 
-># is equal to <h1> tag in html:\
+> # is equal to <h1> tag in html:\
 
 
 
