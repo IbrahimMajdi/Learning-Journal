@@ -1,8 +1,8 @@
-Markdown is a way to style text on the web like html. you can control the font look and shapes, adding images,
-Markdown uses non-alphabetic characters thrown in, like # or *.
+>Markdown is a way to style text on the web like html. you can control the font look and shapes, adding images,
+>Markdown uses non-alphabetic characters thrown in, like # or *.
 
-Examples:
-for a point list you can use * character to represent bullets:
+>Examples:
+>for a point list you can use * character to represent bullets:
 * Hi
 \\* Hi
 
