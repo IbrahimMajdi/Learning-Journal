@@ -8,6 +8,6 @@
 2. it's ok to make mistake.
 3. be patince.
 > read more about growth mind set at:
-[Fixed vs. Growth](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) /
+[Fixed vs. Growth](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) 
 
->[Please check out my repo for more info abou the project](https://ibrahimmajdi.github.io/Learning-Journal/)
+>[Please check out my repo for more info about the project](https://ibrahimmajdi.github.io/Learning-Journal/)
