@@ -4,6 +4,8 @@ Markdown uses non-alphabetic characters thrown in, like # or *.
 Examples:
 for a point list you can use * character to represent bullets:
 * Hi
+\\* Hi
+
 * Hello
 
 you can use # mark to imulate thae html headers tags:
