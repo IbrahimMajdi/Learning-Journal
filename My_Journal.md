@@ -4,9 +4,9 @@
 >Examples:
 >for a point list you can use * character to represent bullets:\
 `* Hi` becomes:
-* Hi
-`* Hello` becomes:
-* Hello
+* Hi\
+`* Hello` becomes:\
+*Hello
 
 > you can use # mark to imulate thae html headers tags:
 
