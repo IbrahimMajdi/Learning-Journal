@@ -3,14 +3,17 @@
 
 >Examples:
 >for a point list you can use * character to represent bullets:\
-`* Hi` becomes * Hi
-
+`* Hi` becomes:
+* Hi
+`* Hello` becomes:
 * Hello
 
 > you can use # mark to imulate thae html headers tags:
 
-# is equal to <h1> tag in html
-#epic
+># is equal to <h1> tag in html:\
+`#epic` becomes:
+ #epic
+
 
 ## is equal to <h2> tag in html
 ##Big
