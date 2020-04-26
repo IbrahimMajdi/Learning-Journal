@@ -2,7 +2,7 @@
 >Markdown uses non-alphabetic characters thrown in, like # or *.
 
 >Examples:
->for a point list you can use * character to represent bullets:
+>for a point list you can use * character to represent bullets:\
 `* H`
 * Hi
 
