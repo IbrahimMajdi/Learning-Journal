@@ -11,9 +11,6 @@
 > you can use # mark to imulate thae html headers tags:
 
 ># is equal to <h1> tag in html:\
-`#epic` becomes:
- #epic
 
 
-## is equal to <h2> tag in html
-##Big
+
