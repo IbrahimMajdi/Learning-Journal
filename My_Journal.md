@@ -8,10 +8,10 @@ for a point list you can use * character to represent bullets:
 
 * Hello
 
-you can use # mark to imulate thae html headers tags:
+> you can use # mark to imulate thae html headers tags:
 
-# is equal <h1> tag in html
+# is equal to <h1> tag in html
 #epic
 
-## is equal <h2> tag in html
+## is equal to <h2> tag in html
 ##Big
