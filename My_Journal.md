@@ -8,8 +8,10 @@
 >`* Hello` becomes:
  * Hello
 
-> you can use # mark to imulate thae html headers tags
-
-
-
+> you can use # mark to imitate the html headers tags
+>for example:
+>`# Hello` becomes:
+ # Hello
+>`## Hello` becomes:
+ ## Hello
 
