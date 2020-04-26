@@ -3,8 +3,7 @@
 
 >Examples:
 >for a point list you can use * character to represent bullets:\
-`* H`
-* Hi
+`* Hi` becomes * Hi
 
 * Hello
 
