@@ -10,13 +10,13 @@
 ![ CSS effect](https://help.madcapsoftware.com/flare2019r2/Content/Resources/Images/Flare/Styles/Page-Structure.png)
 
 ## top key notes about CSS
-1.CSS uses rules to indicate how that
+1. CSS uses rules to indicate how that
     HTML element should look.
-2.Rules are made up of selectors (that specify the
+2. Rules are made up of selectors (that specify the
 elements the rule applies to) and declarations (that
 indicate what these elements should look like).
-3.Declarations are made up of two parts: the properties
+3.  Declarations are made up of two parts: the properties
 of the element that you want to change, and the values
 of those properties.
-4.CSS rules usually saved in a separate document,
+4. CSS rules usually saved in a separate document,
 although they may appear within an HTML page(not a best practice).  
