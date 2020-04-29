@@ -12,3 +12,6 @@
 >8. use sizes,colors styles to diffirentiate between information.
 
 ![modern HTML5 structure](https://www.script-tutorials.com/demos/531/structure.png)
+
+> ## modern HTML5 vs older HTMLs structure:
+![modern HTML5 structure](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/03/differences-between-html-and-html5.png)
