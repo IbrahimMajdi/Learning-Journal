@@ -1,3 +1,12 @@
+# Javascript Expressions and operators
+>assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = y assigns the value of y to x.
+
+## comparsion operator
+
+![CO](https://d1uvxqwmcz8fl1.cloudfront.net/tes/resources/11508897/dc0bccb8-a63f-4185-823a-1cbb65fba9c9/image?width=1000&height=190&version=1486664729508)
+
+
+
 # Javascript Functions
 
 >A JavaScript function is a block of code designed to perform a particular task.
