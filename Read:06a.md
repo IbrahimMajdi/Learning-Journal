@@ -43,3 +43,7 @@ needs to do its job. It can store this data in variables.
 ## Data Types
 
 ![DT](https://www.supinfo.com/articles/resources/231580/5418/1.png)
+
+## Javascript variables Namin Rules
+
+![rules](https://www.google.com/url?sa=i&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F10568090%2F&psig=AOvVaw1VYVBQ43dKXYeZG4L4RxKB&ust=1588458195462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCg_obak-kCFQAAAAAdAAAAABAK)
