@@ -24,8 +24,8 @@ function myFunction(a, b) {
 ## The () Operator Invokes/call the Function
 
 ~~~~
-function toCelsius(fahrenheit) {
-  return (5/9) * (fahrenheit-32);
+function NewAge(CurrentAge) {
+  return (CurrentAge + 5);
 }
-document.getElementById("demo").innerHTML = toCelsius; 
+myNewAge = NewAge(); 
 ~~~~
